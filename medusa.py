@@ -42,7 +42,7 @@ HELPTEXT = (
     ' follow the syntax shown as bellow.\n\n•`/lyrics <query>`'
 )
 ABOUTTEXT = (
-    "**Name** : MedusaMusic🎵\n**Username** : MedusaMousikibot\n**Description**"
+    "**Name** : Music🎵\n**Username** : musiicbot_bot\n**Description**"
     " : <a href='https://en.wikipedia.org/wiki/Medusa'>**Medusa**</a> is a Greek"
     " mythology.\n__Generally described as winged human females with living"
     " venomous snakes in place of hair. Those who gazed into her eyes would"
