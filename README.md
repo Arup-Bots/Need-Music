@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/watchers/bibee-emio/medusamusic?style=social">
 </p>
 <p align="center">
-<img src="src/banner.png">
+<img src="src/banner.mp">
 </p>
 
 <p align="center"> 
@@ -28,7 +28,7 @@
 
 ## Commands 
 
-> Reach [@MedusaMusic](https://t.me/MedusaMousikibot) on Telegram
+> Reach [@MedusaMusic](https://t.me/musiicbot_bot) on Telegram
 
 - `/start` - Check if the bot online
 - `/song TWICE Alcohol Free` - Just replace the _'TWICE Alcohol Free'_ with a song name what you want

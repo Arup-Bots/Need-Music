@@ -31,7 +31,7 @@ PMKEYBOARD = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                'Add me to a group 🎊', url='http://t.me/MedusaMousikibot?startgroup=true')  # Replace the `MedusaMousikibot` with your bot username
+                'Add me to a group 🎊', url='http://t.me/musiicbot_bot?startgroup=true') 
         ]
     ]
 )
@@ -75,8 +75,8 @@ async def start_cmd(_, msg: Message):
                     [
                         InlineKeyboardButton(
                             text='Start me in PM :)',
-                            # Replace the `MedusaMousikibot` with your bot username
-                            url=f't.me/MedusaMousikibot?start=help'
+                            
+                            url=f't.me/musiicbot_bot?start=help'
                         )
                     ]
                 ]

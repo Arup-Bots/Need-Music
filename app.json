@@ -12,11 +12,11 @@
         "heroku",
         "Bibee-Emio"
       ],
-    "repository": "https://github.com/bibee-emio/MedusaMusic",
-    "logo":"https://telegra.ph/file/d5aa388f60d4b40f84eaa.jpg",
+    "repository": "https://github.com/Arup-Bots/Need-Music",
+    "logo":"https://te.legra.ph//file/523d8ce3b7227f34f030e.mp4",
     "stack":"heroku-20",
     "image":"heroku/python",
-    "success_url":"https://t.me/MedusaMousikibot",
+    "success_url":"https://t.me/musiicbot_bot",
     "env":{
         "BOT_TOKEN":{
             "description":"The bot token of your bot. You can get it from @BotFather Telegram",
