@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/watchers/bibee-emio/medusamusic?style=social">
 </p>
 <p align="center">
-<img src="src/banner.mp">
+<source src="banner.mp4" type="video/mp4">
 </p>
 
 <p align="center"> 
